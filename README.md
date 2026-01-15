@@ -1,3 +1,8 @@
 # First Project
 
-this is my first prjects
+This is my first project.
+
+# Team members
+Meraj Siddique
+Nishant Yadav
+Adarsh Kumar
